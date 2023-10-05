@@ -1,1 +1,3 @@
-# FLATTEN
+# FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing
+
+## Coming Soon...
