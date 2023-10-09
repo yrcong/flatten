@@ -1,3 +1,3 @@
 # FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing
-## [<a href=" " target="_blank">Project Page</a>]
+## [<a href="https://flatten-video-editing.github.io/" target="_blank">Project Page</a>]
 ## Coming Soon...
