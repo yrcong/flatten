@@ -10,7 +10,7 @@ https://github.com/yrcong/FLATTEN_video_editing/assets/47991543/baa18b99-512e-4e
 Text-to-video editing aims to edit the visual appearance of a source video conditional on textual prompts. A major challenge in this task is to ensure that all frames in the edited video are visually consistent. In this work, for the first time, we introduce optical flow into the attention module in the diffusion model's U-Net to address the inconsistency issue for text-to-video editing. Our method, FLATTEN, enforces the patches on the same flow path across different frames to attend to each other in the attention module, thus improving the visual consistency in the edited videos. Additionally, our method is training-free and can be seamlessly integrated into any diffusion-based text-to-video editing methods and improve their visual consistency.
 
 ## Requirements
-First download Stable Diffusion 2.1 [here](https://huggingface.co/stabilityai/stable-diffusion-2-1-base).
+First you can download Stable Diffusion 2.1 [here](https://huggingface.co/stabilityai/stable-diffusion-2-1-base).
 
 Install the following packages:
 - PyTorch == 2.1
