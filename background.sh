@@ -1,0 +1,11 @@
+python inference.py \
+--prompt "pointillism painting, detailed" \
+--neg_prompt " " \
+--guidance 25 \
+--video_path "data/background.mp4" \
+--output_path "outputs/" \
+--video_length 32 \
+--width 512 \
+--height 512 \
+--old_qk 1 \
+--frame_rate 1 \

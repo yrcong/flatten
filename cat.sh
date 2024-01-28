@@ -1,0 +1,11 @@
+python inference.py \
+--prompt "A Tiger, high quality" \
+--neg_prompt "a cat with big eyes, deformed" \
+--guidance_scale 20 \
+--video_path "data/puff.mp4" \
+--output_path "outputs/" \
+--video_length 32 \
+--width 512 \
+--height 512 \
+--old_qk 0 \
+--frame_rate 2 \
