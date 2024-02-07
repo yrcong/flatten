@@ -1,6 +1,7 @@
 # FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing
 [![arXiv](https://img.shields.io/badge/arXiv-2310.05922-b31b1b.svg)](https://arxiv.org/abs/2310.05922)
 [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://flatten-video-editing.github.io/) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyrcong%2Fflatten%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Pytorch Implementation of "FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing".
 
