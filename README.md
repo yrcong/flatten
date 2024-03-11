@@ -45,6 +45,10 @@ python inference.py \
 --frame_rate 2 \
 ```
 
+## Editing tricks
+-  You can use a negative prompt (NP) when there is a big gap between the edit target and the source (1st row).
+-  You can increase the scale of classifier-free guidance to enhance the semantic alignment (2nd row).
+
 <table class="center">
 <tr>
   <td width=30% align="center"><img src="data/source.gif" raw=true></td>
@@ -52,9 +56,9 @@ python inference.py \
 	<td width=30% align="center"><img src="data/tiger_neg.gif" raw=true></td>
 </tr>
 <tr>
-  <td width=30% align="center">Source video.</td>
-  <td width=30% align="center">No negative prompt.</td>
-  <td width=30% align="center">A cat with big eyes, deformed.</td>
+  <td width=30% align="center">Source video</td>
+  <td width=30% align="center">NP: " "</td>
+  <td width=30% align="center">NP: "A cat with big eyes, deformed."</td>
 </tr>
 <tr>
   <td width=30% align="center"><img src="data/guidance10.gif" raw=true></td>
@@ -62,9 +66,9 @@ python inference.py \
 	<td width=30% align="center"><img src="data/guidance20.gif" raw=true></td>
 </tr>
 <tr>
-  <td width=30% align="center">Classifier-free guidance: 10.</td>
-  <td width=30% align="center">Classifier-free guidance: 17.5.</td>
-  <td width=30% align="center">Classifier-free guidance: 20.</td>
+  <td width=30% align="center">Classifier-free guidance: 10</td>
+  <td width=30% align="center">Classifier-free guidance: 17.5</td>
+  <td width=30% align="center">Classifier-free guidance: 20</td>
 </tr>
 </table>
 
