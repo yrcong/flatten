@@ -45,6 +45,30 @@ python inference.py \
 --frame_rate 2 \
 ```
 
+<table class="center">
+<tr>
+  <td width=30% align="center"><img src="data/source.gif" raw=true></td>
+  <td width=30% align="center"><img src="data/tiger_empty.gif" raw=true></td>
+	<td width=30% align="center"><img src="data/tiger_neg.gif" raw=true></td>
+</tr>
+<tr>
+  <td width=30% align="center">Source video.</td>
+  <td width=30% align="center">No negative prompt.</td>
+  <td width=30% align="center">A cat with big eyes, deformed.</td>
+</tr>
+<tr>
+  <td width=30% align="center"><img src="data/guidance10.gif" raw=true></td>
+  <td width=30% align="center"><img src="data/guidance17.5.gif" raw=true></td>
+	<td width=30% align="center"><img src="data/guidance20.gif" raw=true></td>
+</tr>
+<tr>
+  <td width=30% align="center">Classifier-free guidance: 10.</td>
+  <td width=30% align="center">Classifier-free guidance: 17.5.</td>
+  <td width=30% align="center">Classifier-free guidance: 20.</td>
+</tr>
+</table>
+
+
 ## BibTex
 ```
 @article{cong2023flatten,
