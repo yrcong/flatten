@@ -5,7 +5,8 @@
 
 Pytorch Implementation of "FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing".
 
-🎊🎊🎊 We are proud to announce that our paper has been accepted at ICLR 2024!
+🎊🎊🎊 We are proud to announce that our paper has been accepted at **ICLR 2024**!
+![teaser-ezgif com-resize](https://github.com/yrcong/flatten/assets/47991543/4f92f2bd-e4e9-4710-82b3-6efd36c27f46)
 
 https://github.com/yrcong/FLATTEN_video_editing/assets/47991543/baa18b99-512e-4e05-a751-30cb1a6f9aa2
 
