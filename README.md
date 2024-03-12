@@ -68,7 +68,7 @@ python inference.py \
 <tr>
   <td width=30% align="center">Classifier-free guidance: 10</td>
   <td width=30% align="center">Classifier-free guidance: 17.5</td>
-  <td width=30% align="center">Classifier-free guidance: 20</td>
+  <td width=30% align="center">Classifier-free guidance: 25</td>
 </tr>
 </table>
 
