@@ -8,7 +8,7 @@
 🎊🎊🎊 We are proud to announce that our paper has been accepted at **ICLR 2024**! If you are interested in FLATTEN, please give us a star😬
 ![teaser-ezgif com-resize](https://github.com/yrcong/flatten/assets/47991543/4f92f2bd-e4e9-4710-82b3-6efd36c27f46)
 
-Thanks to @[**logtd**](https://github.com/logtd) for integrating FLATTEN into ComfyUI and the great sampled video! **Here is the [Link](https://github.com/logtd/ComfyUI-FLATTEN?tab=readme-ov-file)!**
+Thanks to @[**logtd**](https://github.com/logtd) for integrating FLATTEN into ComfyUI and the great sampled videos! **Here is the [Link](https://github.com/logtd/ComfyUI-FLATTEN?tab=readme-ov-file)!**
 
 https://github.com/yrcong/flatten/assets/47991543/1ad49092-9133-42d0-984f-38c6427bde34
 
